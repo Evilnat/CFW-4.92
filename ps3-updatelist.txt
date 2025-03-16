@@ -1,3 +1,3 @@
 # EU
 Dest=85;CompatibleSystemSoftwareVersion=4.9200-;
-Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=Evilnat 4.9200;CDN=https://github.com/Evilnat/CFW-4.92/raw/refs/heads/main/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/raw/refs/heads/main/PS3UPDAT.PUP;CDN_Timeout=30;
