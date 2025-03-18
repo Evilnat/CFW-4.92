@@ -4,7 +4,7 @@ Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 
 # US
 Dest=84;CompatibleSystemSoftwareVersion=4.9200-;
-Dest=84;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/raw/refs/heads/main/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=84;ImageVersion=00010b75;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/raw/refs/heads/main/PS3UPDAT.PUP;CDN_Timeout=30;
 
 # EU
 Dest=85;CompatibleSystemSoftwareVersion=4.9200-;
