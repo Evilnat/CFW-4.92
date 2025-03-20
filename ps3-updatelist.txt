@@ -8,7 +8,7 @@ Dest=84;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 
 # EU
 Dest=85;CompatibleSystemSoftwareVersion=4.9200-;
-Dest=85;IncrementalUpdateVersion=00010b72-00010b72;ImageVersion=00010b72;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/raw/refs/heads/main/PS3PATCH.PUP;CDN_Timeout=30;
+Dest=85;IncrementalUpdateVersion=00010b72-00010b72;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/raw/refs/heads/main/PS3PATCH.PUP;CDN_Timeout=30;
 Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/raw/refs/heads/main/PS3UPDAT.PUP;CDN_Timeout=30;
 
 # KR
