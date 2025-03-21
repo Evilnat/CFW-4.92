@@ -1,2 +1,0 @@
-PEX/PS3UPDAT.PUP filter=lfs diff=lfs merge=lfs -text
-CEX/PS3PATCH.PUP filter=lfs diff=lfs merge=lfs -text
