@@ -8,7 +8,10 @@ Dest=84;ImageVersion=FFFFFFFF;SystemSoftwareVersion=;CDN=http://github.com/PS3-4
 
 #EU
 Dest=85;CompatibleSystemSoftwareVersion=1.0000-;
-Dest=85;ImageVersion=FFFFFFFF;SystemSoftwareVersion=;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/CFW/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=85;ImageVersion=FFFFFFFF;SystemSoftwareVersion=;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/CFW/PS3UPDAT_1.PUP;CDN_Timeout=30;
+
+Dest=85;CompatibleSystemSoftwareVersion=1.0000-;
+Dest=85;ImageVersion=FFFFFFFF;SystemSoftwareVersion=;CDN=http://github.com/PS3-4K-Pro/Firmware-Updates/releases/download/CFW/PS3UPDAT_2.PUP;CDN_Timeout=30;
 
 #KR
 Dest=86;CompatibleSystemSoftwareVersion=1.0000-;
