@@ -1,6 +1,21 @@
 # JP
 Dest=83;CompatibleSystemSoftwareVersion=4.9200-;
-Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/PS3UPDAT.PUP;CDN_Timeout=30;
+Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+
+Dest=83;CompatibleSystemSoftwareVersion=4.9200-;
+Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+
+Dest=83;CompatibleSystemSoftwareVersion=4.9200-;
+Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
+
+Dest=83;CompatibleSystemSoftwareVersion=4.9200-;
+Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+
+Dest=83;CompatibleSystemSoftwareVersion=4.9200-;
+Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_Overclock.PUP;CDN_Timeout=30;
+
+Dest=83;CompatibleSystemSoftwareVersion=4.9200-;
+Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
 
 # US
 Dest=84;CompatibleSystemSoftwareVersion=4.9200-;
