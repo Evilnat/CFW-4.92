@@ -11,7 +11,6 @@ Dest=84;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 # EU
 Dest=85;CompatibleSystemSoftwareVersion=4.9200-;
 Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
-Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX.PUP;CDN_Timeout=30;
 
 # KR
 Dest=86;CompatibleSystemSoftwareVersion=4.9200-;
