@@ -5,6 +5,9 @@ Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=83;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # US
 Dest=84;CompatibleSystemSoftwareVersion=4.9200-;
@@ -13,6 +16,9 @@ Dest=84;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=84;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=84;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=84;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=84;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=84;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=84;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # EU
 Dest=85;CompatibleSystemSoftwareVersion=4.9200-;
@@ -21,6 +27,9 @@ Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=85;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # KR
 Dest=86;CompatibleSystemSoftwareVersion=4.9200-;
@@ -29,6 +38,9 @@ Dest=86;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=86;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=86;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=86;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=86;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=86;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=86;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # UK
 Dest=87;CompatibleSystemSoftwareVersion=4.9200-;
@@ -37,6 +49,9 @@ Dest=87;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=87;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=87;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=87;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=87;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=87;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=87;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # MX
 Dest=88;CompatibleSystemSoftwareVersion=4.9200-;
@@ -45,6 +60,9 @@ Dest=88;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=88;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=88;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=88;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=88;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=88;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=88;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # AU/NZ
 Dest=89;CompatibleSystemSoftwareVersion=4.9200-;
@@ -53,6 +71,9 @@ Dest=89;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=89;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=89;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=89;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=89;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=89;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=89;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # SouthAsia
 Dest=8A;CompatibleSystemSoftwareVersion=4.9200-;
@@ -61,6 +82,9 @@ Dest=8A;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=8A;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=8A;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=8A;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=8A;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=8A;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=8A;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # TW
 Dest=8B;CompatibleSystemSoftwareVersion=4.9200-;
@@ -69,6 +93,9 @@ Dest=8B;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=8B;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=8B;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=8B;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=8B;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=8B;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=8B;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # RU
 Dest=8C;CompatibleSystemSoftwareVersion=4.9200-;
@@ -77,6 +104,9 @@ Dest=8C;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=8C;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=8C;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=8C;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=8C;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=8C;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=8C;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # CH
 Dest=8D;CompatibleSystemSoftwareVersion=4.9200-;
@@ -85,6 +115,9 @@ Dest=8D;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=8D;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=8D;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=8D;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=8D;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=8D;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=8D;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # HK
 Dest=8E;CompatibleSystemSoftwareVersion=4.9200-;
@@ -93,6 +126,9 @@ Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=8E;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
 
 # BR
 Dest=8F;CompatibleSystemSoftwareVersion=4.9200-;
@@ -101,3 +137,6 @@ Dest=8F;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.co
 Dest=8F;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBT.PUP;CDN_Timeout=30;
 Dest=8F;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/CEX/Evilnat_4.92.2_CEX_noBD+noBT.PUP;CDN_Timeout=30;
 Dest=8F;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX.PUP;CDN_Timeout=30;
+Dest=8F;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD.PUP;CDN_Timeout=30;
+Dest=8F;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBT.PUP;CDN_Timeout=30;
+Dest=8F;ImageVersion=00010b73;SystemSoftwareVersion=4.9200;CDN=https://github.com/Evilnat/CFW-4.92/releases/download/PEX/Evilnat_4.92.2_PEX_noBD+noBT.PUP;CDN_Timeout=30;
